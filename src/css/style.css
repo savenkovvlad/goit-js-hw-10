@@ -1,0 +1,19 @@
+.cat-card {
+  display: flex;
+
+  margin: 1%;
+}
+
+.img-cat {
+  width: 300px;
+}
+.cat-description {
+  padding: 10px;
+  max-width: 600px;
+}
+
+.cat-span-temperament {
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
